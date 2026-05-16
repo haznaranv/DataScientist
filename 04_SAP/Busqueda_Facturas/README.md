@@ -1,4 +1,4 @@
-¿COmo funciona?
+¿Cómo funciona?
 - en un fichero especifico en donde llegan muchos registros, existen registros que tienen como patron inicial
 "CA" seguido de codigos, solo se extraen los codigos y contando espacios especificos cogemos las ordenes
 - despues de coger dichos datos, las une por orden:
